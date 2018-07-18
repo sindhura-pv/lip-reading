@@ -1,0 +1,10 @@
+begin
+choose
+connection
+navigation
+next
+previous
+start
+stop
+hello
+web
